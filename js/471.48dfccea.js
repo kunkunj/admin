@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_manager"]=self["webpackChunkvue_manager"]||[]).push([[471],{5471:function(e,n,a){a.r(n),a.d(n,{default:function(){return o}});var r=a(3396);function u(e,n,a,u,t,s){return(0,r.wg)(),(0,r.iD)("div")}var t=a(5941),s=(0,r.aZ)({name:"dashboard",setup(){(0,r.dl)((()=>{t.log(2)})),(0,r.bv)((()=>{t.log(1)}))}}),c=a(89);const d=(0,c.Z)(s,[["render",u]]);var o=d}}]);
+//# sourceMappingURL=471.48dfccea.js.map
